@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "${workspaceFolder}",
+        "${workspaceFolder}/lvgl/",
+        "${workspaceFolder}/lvgl/src/",
+        "${workspaceFolder}/lvgl/src/lv_core",
+        "${workspaceFolder}/lvgl/src/lv_draw",
+        "${workspaceFolder}/lvgl/src/lv_font",
+        "${workspaceFolder}/lvgl/src/lv_font",
+        "${workspaceFolder}/lvgl/src/lv_hal",
+        "${workspaceFolder}/lvgl/src/lv_misc",
+        "${workspaceFolder}/lvgl/src/lv_objx",
+        "${workspaceFolder}/lvgl/src/lv_themes",
+        "${workspaceFolder}/lv_examples/lv_apps/demo"
+      ],
+      "compilerPath": "gcc",
+      "cStandard": "c11",
+      "intelliSenseMode": "clang-x64",
+      "browse": {
+        "path": [
+          "${workspaceFolder}",
+          "${workspaceFolder}/lvgl/",
+          "${workspaceFolder}/lvgl/src/",
+          "${workspaceFolder}/lvgl/src/lv_core",
+          "${workspaceFolder}/lvgl/src/lv_draw",
+          "${workspaceFolder}/lvgl/src/lv_font",
+          "${workspaceFolder}/lvgl/src/lv_font",
+          "${workspaceFolder}/lvgl/src/lv_hal",
+          "${workspaceFolder}/lvgl/src/lv_misc",
+          "${workspaceFolder}/lvgl/src/lv_objx",
+          "${workspaceFolder}/lvgl/src/lv_themes",
+          "${workspaceFolder}/lv_examples/lv_apps/demo"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": "${workspaceRoot}/.vscode/browse.vc.db"
+      }
+    }
+  ],
+  "version": 4
+}
